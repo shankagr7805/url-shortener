@@ -1,0 +1,17 @@
+# Frontend
+url-shortener-frontend/node_modules/
+url-shortener-frontend/build/
+
+# Backend (Spring Boot)
+url-shortener-backend/target/
+
+# Environment files
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
